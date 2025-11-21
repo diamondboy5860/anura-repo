@@ -1,0 +1,12 @@
+ {
+    "name": "Happy Wheels",
+    "type": "webview",
+    "package": "happywheels.app",
+    "src": "https://totaljerkface.com/happy_wheels.tjf",
+    "icon": "discord.png",
+    "wininfo": {
+        "title": "Happy Wheels",
+        "width": "700px",
+        "height": "500px"
+    }
+}
